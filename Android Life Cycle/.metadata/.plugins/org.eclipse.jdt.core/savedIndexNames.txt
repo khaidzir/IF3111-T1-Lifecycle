@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+F:\Tutorial Android\Android Life Cycle\.metadata\.plugins\org.eclipse.jdt.core
+3831495714.index
+1906349613.index
+2962926479.index

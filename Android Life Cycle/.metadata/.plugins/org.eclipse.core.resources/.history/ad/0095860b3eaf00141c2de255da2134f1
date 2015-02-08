@@ -1,0 +1,5 @@
+package com.vogella.android.lifecycle.activity;
+
+public class SecondActivity {
+
+}

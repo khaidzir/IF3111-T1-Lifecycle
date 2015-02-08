@@ -1,0 +1,5 @@
+package de.vogella.android.alarm;
+
+public class MyBroadcastReceiver {
+
+}

@@ -1,0 +1,8 @@
+INDEX VERSION 1.126+F:\Tutorial Android\Android Broadcast Receiver\.metadata\.plugins\org.eclipse.jdt.core
+3182275324.index
+3564261444.index
+1284074322.index
+3119708139.index
+649940988.index
+1424408140.index
+1987845338.index

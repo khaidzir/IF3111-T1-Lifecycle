@@ -1,0 +1,5 @@
+package com.vogella.android.intent.explicit;
+
+public class ResultActivity {
+
+}

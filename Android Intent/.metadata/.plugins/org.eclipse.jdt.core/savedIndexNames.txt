@@ -1,0 +1,9 @@
+INDEX VERSION 1.126+F:\Tutorial Android\Android Intent\.metadata\.plugins\org.eclipse.jdt.core
+2395456436.index
+3201958000.index
+1284074322.index
+764816925.index
+3325667080.index
+2472274518.index
+136638897.index
+770270182.index
